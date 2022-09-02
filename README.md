@@ -26,3 +26,4 @@ Write a command that lists all the files and directories of the current director
 Create a script that switches the current user to the user betty.
 prints the effective username of the current user.
 prints all the groups the current user is part of.
+prints all the groups the current user is part of.
