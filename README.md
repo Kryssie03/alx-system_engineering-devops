@@ -37,3 +37,4 @@ Owner: no permission at all
 Group: no permission at all
 Other users: all the permissions
  set's the mode of file hello to 753
+sets the mode of the file hello the same as the olleh's mode
